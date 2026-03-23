@@ -1,6 +1,7 @@
 # BODMAS Rush 🎮
 
 An interactive educational game to learn BODMAS (Order of Operations) through step-by-step visual problem solving.
+Complete functioning video of the project [Link](https://screenrec.com/share/oq54HwcFxW)
 
 ## 🚀 Features
 - Click-based learning of operation priority
